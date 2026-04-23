@@ -70,7 +70,7 @@ font-style:italic;
 
 <tbody><tr>
 
-<td>	1	</td><td>	ADITYA CAHYO NUGROHO	</td><td><b>	Kompeten*	</b></td><td>	|||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	1	</td><td>	ADITYA CAHYO NUGROHO	</td><td><b>	Kompeten*	</b></td><td>	|||||+	</td><td>PKL Report</td><td>0 min ago</td></tr></tbody><tbody><tr>
 <td>	2	</td><td>	ADITYA NUR FEBRIANSYAH	</td><td><b>	Kompeten	</b></td><td>	|||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
 <td>	3	</td><td>	AFGAN SYAKURO	</td><td><b>	Kompeten*	</b></td><td>	|||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
 <td>	4	</td><td>	ALKAHFI RIZKY MAULANA HASBIYANTO	</td><td><b>	Kompeten	</b></td><td>	|||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
@@ -80,17 +80,17 @@ font-style:italic;
 <td>	8	</td><td>	CALVIN BARAHMA PUTRA	</td><td><b>	Kompeten*	</b></td><td>	|||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
 <td>	9	</td><td>	DEVI DWI NURAINI	</td><td><b>	Kompeten	</b></td><td>	|||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
 <td>	10	</td><td>	DIVA PUSPITADEWI	</td><td><b>	Kompeten*	</b></td><td>	|||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	11	</td><td>	FADLAN NUR ARIFIN	</td><td><b>	Kompeten*	</b></td><td>	||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	11	</td><td>	FADLAN NUR ARIFIN	</td><td><b>	Kompeten*	</b></td><td>	||||+	</td><td>PKL Report</td><td>0 min ago</td></tr></tbody><tbody><tr>
 <td>	12	</td><td>	FADLI KUKUH ROHMAJATI	</td><td><b>	Kompeten	</b></td><td>	||||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
 <td>	13	</td><td>	FAFELLIO GIENOLA	</td><td><b>	Kompeten	</b></td><td>	||||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
 <td>	14	</td><td>	FAKHRI DZATU RAHMAN	</td><td><b>	Kompeten*	</b></td><td>	||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
 <td>	15	</td><td>	FERRY NURISWAN YAZID	</td><td><b>	Kompeten*	</b></td><td>	|||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
 <td>	16	</td><td>	MARLINA SETYA NINGRUM	</td><td><b>	Kompeten*	</b></td><td>	|||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
 <td>	17	</td><td>	MARSELA AJENG LESTARI	</td><td><b>	Kompeten	</b></td><td>	||||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	18	</td><td>	M ADITYA SAPUTRA	</td><td><b>	Kompeten*	</b></td><td>	||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	18	</td><td>	M ADITYA SAPUTRA	</td><td><b>	Kompeten*	</b></td><td>	||||+	</td><td>PKL Report</td><td>0 min ago</td></tr></tbody><tbody><tr>
 <td>	19	</td><td>	MUTIA RIZKI KURNIAWATI	</td><td><b>	Kompeten*	</b></td><td>	|||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
 <td>	20	</td><td>	NADIF RAMADHANI	</td><td><b>	Kompeten*	</b></td><td>	|||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	21	</td><td>	QURATUL YUDEA ATIQAH	</td><td><b>	Kompeten*	</b></td><td>	|||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	21	</td><td>	QURATUL YUDEA ATIQAH	</td><td><b>	Kompeten*	</b></td><td>	|||||||	</td><td>PKL Report</td><td>0 min ago</td></tr></tbody><tbody><tr>
 <td>	22	</td><td>	RAHMAT ANTOKO	</td><td><b>	Kompeten*	</b></td><td>	|||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
 <td>	23	</td><td>	REZA ROHANIFAH	</td><td><b>	Kompeten*	</b></td><td>	|||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
 <td>	24	</td><td>	RIZKY APRIANZAH	</td><td><b>	Kompeten	</b></td><td>	||||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
@@ -117,7 +117,7 @@ font-style:italic;
 <td>	12	</td><td>	HESTI HENDARTI	</td><td><b>	Kompeten*	</b></td><td>	|||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
 <td>	13	</td><td>	IHZA MAULANA ALFARISI	</td><td><b>	Kompeten	</b></td><td>	|||||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
 <td>	14	</td><td>	ISMA WARDANI	</td><td><b>	Kompeten	</b></td><td>	|||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	15	</td><td>	MAYNANDA INTAN MARCELLA	</td><td><b>	Kompeten*	</b></td><td>	|||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	15	</td><td>	MAYNANDA INTAN MARCELLA	</td><td><b>	Kompeten*	</b></td><td>	|||	</td><td>PKL Report</td><td>0 min ago</td></tr></tbody><tbody><tr>
 <td>	16	</td><td>	M AKBAR MAULANA	</td><td><b>	Kompeten	</b></td><td>	||||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
 <td>	17	</td><td>	M ALFIN NI'AM	</td><td><b>	Kompeten	</b></td><td>	||||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
 <td>	18	</td><td>	NAURA ZAHRA ROSITA	</td><td><b>	Kompeten	</b></td><td>	||||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
