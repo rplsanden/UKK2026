@@ -54,8 +54,8 @@ font-style:italic;
 
 
 <h2 id="leader">🏆 UKK XII 2026 SOFTWARE ENGINEERING</h2>
-<p id="countdown">Competition is done</p>
-<br><br>
+<p id="countdown">The competition is over.</p>
+
 
 <table id="board">
 <tbody><tr>
