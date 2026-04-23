@@ -70,70 +70,70 @@ font-style:italic;
 
 <tbody><tr>
 
-<td>	1	</td><td>	ADITYA CAHYO NUGROHO	</td><td><b> Belum Kompeten	</b></td><td>🔥 Active Now</td><td>Progress</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	2	</td><td>	ADITYA NUR FEBRIANSYAH	</td><td><b>	Kompeten	</b></td><td>🔥 Active</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	3	</td><td>	AFGAN SYAKURO	</td><td><b>	Belum Kompeten	</b></td><td>🔥 Active Now</td><td>Progress</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	4	</td><td>	ALKAHFI RIZKY MAULANA HASBIYANTO	</td><td><b>	Kompeten	</b></td><td>🔥 Active</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	5	</td><td>	ANGGA SETIAWAN	</td><td><b>	Belum Kompeten	</b></td><td>🔥 Active Now</td><td>Progress</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	6	</td><td>	ANIDA KHOIRANI	</td><td><b>	Belum Kompeten	</b></td><td>🔥 Active Now</td><td>Progress</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	7	</td><td>	ARIFIN MUHAMMAD IQBAL	</td><td><b>	Kompeten	</b></td><td>🔥 Active</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	8	</td><td>	CALVIN BARAHMA PUTRA	</td><td><b>	Belum Kompeten	</b></td><td>🔥 Active Now</td><td>Progress</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	9	</td><td>	DEVI DWI NURAINI	</td><td><b>	Kompeten	</b></td><td>🔥 Active</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	10	</td><td>	DIVA PUSPITADEWI	</td><td><b>	Belum Kompeten	</b></td><td>🔥 Active Now</td><td>Progress</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	11	</td><td>	FADLAN NUR ARIFIN	</td><td><b>	Belum Kompeten	</b></td><td>🔥 Active Now</td><td>DENIED</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	12	</td><td>	FADLI KUKUH ROHMAJATI	</td><td><b>	Kompeten	</b></td><td>🔥 Active</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	13	</td><td>	FAFELLIO GIENOLA	</td><td><b>	Kompeten	</b></td><td>🔥 Active</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	14	</td><td>	FAKHRI DZATU RAHMAN	</td><td><b>	Belum Kompeten	</b></td><td>🔥 Active Now</td><td>Progress</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	15	</td><td>	FERRY NURISWAN YAZID	</td><td><b>	Belum Kompeten	</b></td><td>🔥 Active Now</td><td>Progress</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	16	</td><td>	MARLINA SETYA NINGRUM	</td><td><b>	Belum Kompeten	</b></td><td>🔥 Active Now</td><td>Progress</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	17	</td><td>	MARSELA AJENG LESTARI	</td><td><b>	Kompeten	</b></td><td>🔥 Active</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	18	</td><td>	M ADITYA SAPUTRA	</td><td><b> Belum Kompeten	</b></td><td>🔥 Active Now</td><td>DENIED</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	19	</td><td>	MUTIA RIZKI KURNIAWATI	</td><td><b>	Belum Kompeten	</b></td><td>🔥 Active Now</td><td>Progress</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	20	</td><td>	NADIF RAMADHANI	</td><td><b>	Belum Kompeten	</b></td><td>🔥 Active Now</td><td>Progress</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	21	</td><td>	QURATUL YUDEA ATIQAH	</td><td><b>	Belum Kompeten	</b></td><td>🔥 Active Now</td><td>Progress</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	22	</td><td>	RAHMAT ANTOKO	</td><td><b>	Belum Kompeten	</b></td><td>🔥 Active Now</td><td>Progress</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	23	</td><td>	REZA ROHANIFAH	</td><td><b>	Belum Kompeten	</b></td><td>🔥 Active Now</td><td>Progress</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	24	</td><td>	RIZKY APRIANZAH	</td><td><b>	Kompeten	</b></td><td>🔥 Active</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	25	</td><td>	SAID AL HARIS	</td><td><b>	Kompeten	</b></td><td>🔥 Active</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	26	</td><td>	SALSABILLA FITRI CHOIRUNNISA	</td><td><b>	Kompeten	</b></td><td>🔥 Active</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	27	</td><td>	TAUFIQ KHAIRAN NAFI	</td><td><b>	Belum Kompeten	</b></td><td>🔥 Active Now</td><td>Progress</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	28	</td><td>	TEJO YUDIANTORO	</td><td><b>	Belum Kompeten	</b></td><td>🔥 Active Now</td><td>DENIED</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	29	</td><td>	TRI DITO PAMUNGKAS	</td><td><b>	Belum Kompeten	</b></td><td>🔥 Active Now</td><td>Progress</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	30	</td><td>	TRI HAYYUNINGRUM	</td><td><b>	Kompeten	</b></td><td>🔥 Active</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	31	</td><td>	ZAHRA NUR AZIZA	</td><td><b>	Belum Kompeten	</b></td><td>🔥 Active Now</td><td>Progress</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	32	</td><td>	ZAHRA NUR SHOLIKHAH	</td><td><b>	Belum Kompeten	</b></td><td>🔥 Active Now</td><td>Progress</td><td>0 min ago</td></tr></tbody><tbody><tr>
-						
-<td>	1	</td><td>	AHMAD FAIZ RAMADHAN	</td><td><b>	Kompeten	</b></td><td>🔥 Active</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	2	</td><td>	ALIFI DINAL MAULANA	</td><td><b>	Belum Kompeten	</b></td><td>🔥 Active Now</td><td>Progress</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	3	</td><td>	AMANDA CYNTYA BELLA	</td><td><b>	Kompeten	</b></td><td>🔥 Active</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	4	</td><td>	ANANDA NUR MAULANA	</td><td><b>	Belum Kompeten	</b></td><td>🔥 Active Now</td><td>Progress</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	5	</td><td>	ANGGA ARYO PRASTYO	</td><td><b>	Kompeten	</b></td><td>🔥 Active</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	6	</td><td>	BAYU CAHYO ANGGORO	</td><td><b>	Belum Kompeten	</b></td><td>🔥 Active Now</td><td>Progress</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	7	</td><td>	CHARISDA RIZKY	</td><td><b>	Kompeten	</b></td><td>🔥 Active</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	8	</td><td>	EZITYO AKMAR PRADIGTYA	</td><td><b>	Belum Kompeten	</b></td><td>🔥 Active Now</td><td>Progress</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	9	</td><td>	FAHRIEL LINDU CECARIALDI ALAMSYAH	</td><td><b>	Kompeten	</b></td><td>🔥 Active</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	10	</td><td>	FAIQ NADHIF ADIWINATA	</td><td><b>	Belum Kompeten	</b></td><td>🔥 Active Now</td><td>Progress</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	11	</td><td>	FAJAR DWI ANTORO	</td><td><b>	Kompeten	</b></td><td>🔥 Active</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	12	</td><td>	HESTI HENDARTI	</td><td><b>	Belum Kompeten	</b></td><td>🔥 Active Now</td><td>Progress</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	13	</td><td>	IHZA MAULANA ALFARISI	</td><td><b>	Kompeten	</b></td><td>🔥 Active</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	14	</td><td>	ISMA WARDANI	</td><td><b>	Kompeten	</b></td><td>🔥 Active</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	15	</td><td>	MAYNANDA INTAN MARCELLA	</td><td><b>	Tidak terpenuhi	</b></td><td>🔥 Active Now</td><td>DENIED</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	16	</td><td>	M AKBAR MAULANA	</td><td><b>	Kompeten	</b></td><td>🔥 Active</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	17	</td><td>	M ALFIN NI'AM	</td><td><b>	Kompeten	</b></td><td>🔥 Active</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	18	</td><td>	NAURA ZAHRA ROSITA	</td><td><b>	Kompeten	</b></td><td>🔥 Active</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	19	</td><td>	NUR HALIMAH	</td><td><b>	Kompeten	</b></td><td>🔥 Active</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	20	</td><td>	NUR JANAH	</td><td><b>	Kompeten	</b></td><td>🔥 Active</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	21	</td><td>	NUR RATRI BEKTI SIHINTA TAMA	</td><td><b>	Kompeten	</b></td><td>🔥 Active</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	22	</td><td>	NURMA WIDYANINGSIH	</td><td><b>	Kompeten	</b></td><td>🔥 Active</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	23	</td><td>	OCTORENO RADITYA	</td><td><b>	Belum Kompeten	</b></td><td>🔥 Active Now</td><td>Progress</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	24	</td><td>	RAIHAN FADIL 	</td><td><b>	Belum Kompeten	</b></td><td>🔥 Active Now</td><td>Progress</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	25	</td><td>	RAMA HARRY WIDIANTO	</td><td><b>	Belum Kompeten	</b></td><td>🔥 Active Now</td><td>Progress</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	26	</td><td>	RIZKI MIFTAKHUL HUDA	</td><td><b>	Kompeten	</b></td><td>🔥 Active</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	27	</td><td>	RIZZLA REVA FAUZIYAH	</td><td><b>	Kompeten	</b></td><td>🔥 Active</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	28	</td><td>	SRIYANI	</td><td><b>	Kompeten	</b></td><td>🔥 Active</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	29	</td><td>	WAN M AL HAYYU	</td><td><b>	Kompeten	</b></td><td>🔥 Active</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	30	</td><td>	WAN M AL WALIYYU	</td><td><b>	Kompeten	</b></td><td>🔥 Active</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
-<td>	31	</td><td>	ZUHRI BAGAS ANDRI PRATAMA	</td><td><b>	Belum Kompeten	</b></td><td>🔥 Active Now</td><td>Progress</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	1	</td><td>	ADITYA CAHYO NUGROHO	</td><td><b>	Kompeten*	</b></td><td>	|||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	2	</td><td>	ADITYA NUR FEBRIANSYAH	</td><td><b>	Kompeten	</b></td><td>	|||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	3	</td><td>	AFGAN SYAKURO	</td><td><b>	Kompeten*	</b></td><td>	|||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	4	</td><td>	ALKAHFI RIZKY MAULANA HASBIYANTO	</td><td><b>	Kompeten	</b></td><td>	|||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	5	</td><td>	ANGGA SETIAWAN	</td><td><b>	Kompeten*	</b></td><td>	|||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	6	</td><td>	ANIDA KHOIRANI	</td><td><b>	Kompeten*	</b></td><td>	|||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	7	</td><td>	ARIFIN MUHAMMAD IQBAL	</td><td><b>	Kompeten	</b></td><td>	|||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	8	</td><td>	CALVIN BARAHMA PUTRA	</td><td><b>	Kompeten*	</b></td><td>	|||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	9	</td><td>	DEVI DWI NURAINI	</td><td><b>	Kompeten	</b></td><td>	|||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	10	</td><td>	DIVA PUSPITADEWI	</td><td><b>	Kompeten*	</b></td><td>	|||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	11	</td><td>	FADLAN NUR ARIFIN	</td><td><b>	Kompeten*	</b></td><td>	||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	12	</td><td>	FADLI KUKUH ROHMAJATI	</td><td><b>	Kompeten	</b></td><td>	||||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	13	</td><td>	FAFELLIO GIENOLA	</td><td><b>	Kompeten	</b></td><td>	||||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	14	</td><td>	FAKHRI DZATU RAHMAN	</td><td><b>	Kompeten*	</b></td><td>	||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	15	</td><td>	FERRY NURISWAN YAZID	</td><td><b>	Kompeten*	</b></td><td>	|||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	16	</td><td>	MARLINA SETYA NINGRUM	</td><td><b>	Kompeten*	</b></td><td>	|||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	17	</td><td>	MARSELA AJENG LESTARI	</td><td><b>	Kompeten	</b></td><td>	||||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	18	</td><td>	M ADITYA SAPUTRA	</td><td><b>	Kompeten*	</b></td><td>	||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	19	</td><td>	MUTIA RIZKI KURNIAWATI	</td><td><b>	Kompeten*	</b></td><td>	|||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	20	</td><td>	NADIF RAMADHANI	</td><td><b>	Kompeten*	</b></td><td>	|||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	21	</td><td>	QURATUL YUDEA ATIQAH	</td><td><b>	Kompeten*	</b></td><td>	|||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	22	</td><td>	RAHMAT ANTOKO	</td><td><b>	Kompeten*	</b></td><td>	|||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	23	</td><td>	REZA ROHANIFAH	</td><td><b>	Kompeten*	</b></td><td>	|||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	24	</td><td>	RIZKY APRIANZAH	</td><td><b>	Kompeten	</b></td><td>	||||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	25	</td><td>	SAID AL HARIS	</td><td><b>	Kompeten	</b></td><td>	|||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	26	</td><td>	SALSABILLA FITRI CHOIRUNNISA	</td><td><b>	Kompeten	</b></td><td>	||||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	27	</td><td>	TAUFIQ KHAIRAN NAFI	</td><td><b>	Kompeten*	</b></td><td>	||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	28	</td><td>	TEJO YUDIANTORO	</td><td><b>	Kompeten*	</b></td><td>	||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	29	</td><td>	TRI DITO PAMUNGKAS	</td><td><b>	Kompeten*	</b></td><td>	||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	30	</td><td>	TRI HAYYUNINGRUM	</td><td><b>	Kompeten	</b></td><td>	|||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	31	</td><td>	ZAHRA NUR AZIZA	</td><td><b>	Kompeten*	</b></td><td>	|||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	32	</td><td>	ZAHRA NUR SHOLIKHAH	</td><td><b>	Kompeten*	</b></td><td>	|||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+								
+<td>	1	</td><td>	AHMAD FAIZ RAMADHAN	</td><td><b>	Kompeten	</b></td><td>	||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	2	</td><td>	ALIFI DINAL MAULANA	</td><td><b>	Kompeten*	</b></td><td>	|||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	3	</td><td>	AMANDA CYNTYA BELLA	</td><td><b>	Kompeten	</b></td><td>	||||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	4	</td><td>	ANANDA NUR MAULANA	</td><td><b>	Kompeten*	</b></td><td>	||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	5	</td><td>	ANGGA ARYO PRASTYO	</td><td><b>	Kompeten	</b></td><td>	|||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	6	</td><td>	BAYU CAHYO ANGGORO	</td><td><b>	Kompeten*	</b></td><td>	|||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	7	</td><td>	CHARISDA RIZKY	</td><td><b>	Kompeten	</b></td><td>	||||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	8	</td><td>	EZITYO AKMAR PRADIGTYA	</td><td><b>	Kompeten*	</b></td><td>	|||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	9	</td><td>	FAHRIEL LINDU CECARIALDI ALAMSYAH	</td><td><b>	Kompeten	</b></td><td>	|||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	10	</td><td>	FAIQ NADHIF ADIWINATA	</td><td><b>	Kompeten*	</b></td><td>	|||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	11	</td><td>	FAJAR DWI ANTORO	</td><td><b>	Kompeten	</b></td><td>	||||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	12	</td><td>	HESTI HENDARTI	</td><td><b>	Kompeten*	</b></td><td>	|||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	13	</td><td>	IHZA MAULANA ALFARISI	</td><td><b>	Kompeten	</b></td><td>	|||||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	14	</td><td>	ISMA WARDANI	</td><td><b>	Kompeten	</b></td><td>	|||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	15	</td><td>	MAYNANDA INTAN MARCELLA	</td><td><b>	Kompeten*	</b></td><td>	|||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	16	</td><td>	M AKBAR MAULANA	</td><td><b>	Kompeten	</b></td><td>	||||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	17	</td><td>	M ALFIN NI'AM	</td><td><b>	Kompeten	</b></td><td>	||||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	18	</td><td>	NAURA ZAHRA ROSITA	</td><td><b>	Kompeten	</b></td><td>	||||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	19	</td><td>	NUR HALIMAH	</td><td><b>	Kompeten	</b></td><td>	|||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	20	</td><td>	NUR JANAH	</td><td><b>	Kompeten	</b></td><td>	|||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	21	</td><td>	NUR RATRI BEKTI SIHINTA TAMA	</td><td><b>	Kompeten	</b></td><td>	||||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	22	</td><td>	NURMA WIDYANINGSIH	</td><td><b>	Kompeten	</b></td><td>	|||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	23	</td><td>	OCTORENO RADITYA	</td><td><b>	Kompeten*	</b></td><td>	|||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	24	</td><td>	RAIHAN FADIL 	</td><td><b>	Kompeten*	</b></td><td>	|||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	25	</td><td>	RAMA HARRY WIDIANTO	</td><td><b>	Kompeten*	</b></td><td>	||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	26	</td><td>	RIZKI MIFTAKHUL HUDA	</td><td><b>	Kompeten	</b></td><td>	|||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	27	</td><td>	RIZZLA REVA FAUZIYAH	</td><td><b>	Kompeten	</b></td><td>	|||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	28	</td><td>	SRIYANI	</td><td><b>	Kompeten	</b></td><td>	||||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	29	</td><td>	WAN M AL HAYYU	</td><td><b>	Kompeten	</b></td><td>	||||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	30	</td><td>	WAN M AL WALIYYU	</td><td><b>	Kompeten	</b></td><td>	||||||||+	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
+<td>	31	</td><td>	ZUHRI BAGAS ANDRI PRATAMA	</td><td><b>	Kompeten*	</b></td><td>	|||||||	</td><td>Done</td><td>0 min ago</td></tr></tbody><tbody><tr>
 
 
 
@@ -142,9 +142,9 @@ font-style:italic;
 
   <ol>
     <li>
-      ❗ <b>Belum Kompeten?</b><br>
-      Lengkapi & perbagus <b>GitHub</b> (Repo & Pages) serta <b>Infinity</b>.<br>
-      Tambahkan <b>Flowchart</b> & <b>ERD</b>, lalu upload ke repository.
+      ❗ <b>Kompeten*</b><br>
+      Kurang terpenuhi kriteria fiturnya <b>GitHub</b> (Repo & Pages) serta <b>Infinity</b>.<br>
+      atau belum terpenuhi <b>Flowchart</b> & <b>ERD</b>, atau ter upload ke repository.
     </li>
     <br>
     <li>
@@ -153,7 +153,7 @@ font-style:italic;
     </li>
     <br>
     <li>
-      ⏰ <b>Deadline:</b> Rabu, 22 April 2026 21:00WIB
+      ⏰ <b>Waktu perbaikan sudah habis
     </li>
   </ol>
 
