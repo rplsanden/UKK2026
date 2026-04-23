@@ -158,7 +158,7 @@ font-style:italic;
   </ol>
 
   <p align="center"><b>💪 Tetap Semangat!</b></p>
-</div>
+
 
 <!-- Komentar Anda
 <td>2</td>
