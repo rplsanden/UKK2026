@@ -155,8 +155,7 @@ font-style:italic;
     <li>
       ⏰ <b>Waktu perbaikan sudah 
 		  <a href="https://drive.google.com/file/d/19grzEYJcWBIxGzKFP4mi-ZJkE4lPU5ZQ/view?usp=drive_link" target="_blank">HABIS</a>
-    </li>
-  </ol>
+
   <p align="center"><b>💪 Tetap Semangat!</b></p>
 
 
